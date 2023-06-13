@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress';
 
 export default defineConfig({
-  base: `/docs/`, 
+  base: `/docsweb/`, 
   lang: 'zh',
   lastUpdated: true,
 
