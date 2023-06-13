@@ -29,7 +29,7 @@ export default defineConfig({
     socialLinks: [
       {
         icon: 'github',
-        link: 'https://github.com/Tricker39/programming-knowledge',
+        link: 'https://github.com/gaohuaiy',
       },
     ],
   },
